@@ -1,0 +1,7 @@
+C:\Users\kevin\source\repos\ConsoleAppLoopar\ConsoleAppLoopar\bin\Debug\ConsoleAppLoopar.exe.config
+C:\Users\kevin\source\repos\ConsoleAppLoopar\ConsoleAppLoopar\bin\Debug\ConsoleAppLoopar.exe
+C:\Users\kevin\source\repos\ConsoleAppLoopar\ConsoleAppLoopar\bin\Debug\ConsoleAppLoopar.pdb
+C:\Users\kevin\source\repos\ConsoleAppLoopar\ConsoleAppLoopar\obj\Debug\ConsoleAppLoopar.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\ConsoleAppLoopar\ConsoleAppLoopar\obj\Debug\ConsoleAppLoopar.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\ConsoleAppLoopar\ConsoleAppLoopar\obj\Debug\ConsoleAppLoopar.exe
+C:\Users\kevin\source\repos\ConsoleAppLoopar\ConsoleAppLoopar\obj\Debug\ConsoleAppLoopar.pdb
