@@ -16,14 +16,14 @@ namespace ConsoleAppLoopar
                 Console.WriteLine(i);
             }
 
-            Console.WriteLine("Uppgift 2");
+            Console.WriteLine("\nUppgift 2");
             int Nummer = 0;
             while(Nummer < 13)
             {
                 Console.WriteLine(Nummer);
                 Nummer = Nummer + 1;
             }
-            Console.WriteLine("Uppgift 3");
+            Console.WriteLine("\nUppgift 3");
             for(int i = 77; i > 64; i--)
             {
                 Console.WriteLine(i);
