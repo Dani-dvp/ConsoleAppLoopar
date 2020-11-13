@@ -29,7 +29,7 @@ namespace ConsoleAppLoopar
                 Console.WriteLine(i);
             }
 
-            Console.WriteLine("Uppgift 4");
+            Console.WriteLine("\nUppgift 4");
             int Nummer2 = 77;
             while (Nummer2 > 64)
             {
